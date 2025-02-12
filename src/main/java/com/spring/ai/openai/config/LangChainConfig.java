@@ -17,7 +17,7 @@ public class LangChainConfig {
     @Bean
     public OpenAiChatModel streamingChatModel() {
         return OpenAiChatModel.builder()
-                .apiKey("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") // Replace with your actual API key
+
                 .build();
     }
 
