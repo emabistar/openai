@@ -19,6 +19,7 @@ target/
 *.iml
 *.ipr
 config
+/config/LangChainConfig.java
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
